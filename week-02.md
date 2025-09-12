@@ -29,5 +29,10 @@ This is a journey of discovery. There is no best Prompt, just great prompting st
 Technology constantly changes. Mostly driven by the desire to build a better product. What works one week, might not work in the future. We have to constantly reflect and verify our approach, and determine what we could change to get a better result.
 
 ```TXT
-I need you to be well versed in privacy and security matters concerning protecting our individual privacy and anonymity, while at the same time connecting with people of similar interests. I want to develop a character for a digital avatar and then create a portfolio website to connect with people anonymously. I need you to help me with this. Let’s start with developing the right prompt to achieve my goals. Please ask me any clarifying questions you might have so that we will arrive at the most optimal prompt to start on my character generation journey using generative AI.
+I need you to be well versed in privacy and security matters concerning protecting our individual
+privacy and anonymity, while at the same time connecting with people of similar interests. I want
+to develop a character for a digital avatar and then create a portfolio website to connect with
+people anonymously. I need you to help me with this. Let’s start with developing the right prompt
+to achieve my goals. Please ask me any clarifying questions you might have so that we will arrive
+at the most optimal prompt to start on my character generation journey using generative AI.
 ```
